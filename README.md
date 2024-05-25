@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chronichunter00
+- 👋 Hi, I’m Anand Raj @chronichunter00
 - 👀 I’m interested in mechatronics systems and control
 - 🌱 I’m currently learning physics
 - - 📫 How to reach me : arr@rambalindia.net
